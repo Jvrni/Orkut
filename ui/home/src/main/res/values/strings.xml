@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="placeholder_search">Pesquisar no</string>
+    <string name="placeholder_orkut">Orkut</string>
+    <string name="add_story">Seu story</string>
+</resources>

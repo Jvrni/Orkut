@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black202020">#202020</color>
+    <color name="black444444">#444444</color>
+    <color name="black161616">#161616</color>
+    <color name="black333333">#161616</color>
+    <color name="gray888888">#888888</color>
+    <color name="grayE5E5E9">#E5E5E9</color>
+    <color name="grayF7FAFC">#F7FAFC</color>
+    <color name="primary">#ED2590</color>
+    <color name="tertiary">#000000</color>
+</resources>

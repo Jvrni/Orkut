@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="placeholder_email">Digite seu e-mail</string>
+    <string name="placeholder_password">Senha</string>
+    <string name="button_login">Login</string>
+    <string name="forget_password">Esqueceu sua senha?</string>
+    <string name="without_account">Não tem uma conta?</string>
+    <string name="register">Cadastre-se</string>
+</resources>

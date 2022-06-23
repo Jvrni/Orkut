@@ -1,0 +1,10 @@
+rootProject.name = "Orkut"
+include ':app'
+include ':core'
+include ':domain'
+include ':ui'
+include ':ui:splash'
+include ':ui:login'
+include ':ui:home'
+include ':ui:profile'
+include ':service'

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "id": 1,
+      "name": "Gabi",
+      "genre": "Feminino",
+      "city": "Campinas",
+      "country": "Brasil",
+      "description": "Você sentirá vergonha de mim, mas nunca estará entediado com o meu feed"
+    }
+  },
+  {
+    "id": 2,
+    "user": {
+      "id": 3,
+      "name": "Pietro",
+      "genre": "Masculino",
+      "city": "Fortaleza",
+      "country": "Brasil",
+      "description": "Você sentirá vergonha de mim, mas nunca estará entediado com o meu feed"
+    }
+  },
+  {
+    "id": 3,
+    "user": {
+      "id": 7,
+      "name": "Max",
+      "genre": "Maculino",
+      "city": "Santos",
+      "country": "Brasil",
+      "description": "Você sentirá vergonha de mim, mas nunca estará entediado com o meu feed"
+    }
+  },
+  {
+    "id": 4,
+    "user": {
+      "id": 6,
+      "name": "Samantha",
+      "genre": "Feminino",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "description": "Você sentirá vergonha de mim, mas nunca estará entediado com o meu feed"
+    }
+  },
+  {
+    "id": 5,
+    "user": {
+      "id": 5,
+      "name": "Alex",
+      "genre": "Masculino",
+      "city": "Brasilia",
+      "country": "Brasil",
+      "description": "Você sentirá vergonha de mim, mas nunca estará entediado com o meu feed"
+    }
+  },
+  {
+    "id": 6,
+    "user": {
+      "id": 4,
+      "name": "Fox",
+      "genre": "Feminino",
+      "city": "São Paulo",
+      "country": "Brasil",
+      "description": "Você sentirá vergonha de mim, mas nunca estará entediado com o meu feed"
+    }
+  }
+]
